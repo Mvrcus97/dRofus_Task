@@ -6,7 +6,8 @@
 
 # 1) Java program.
 # create 3 seperate files with the source code, save them as [Classname].java with capital initial letter. 
-# Open terminal in the same folder, type $ javac *.java 
+# Open terminal in the same folder, type
+# $ javac *.java 
 # This will compile the 3 files. To run main program type: $ Java Main
 
 
