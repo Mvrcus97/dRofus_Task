@@ -12,7 +12,7 @@ const port = 2018;
 const url = require('url');
 
 
-//creare server
+//create server
 const server = http.createServer((req, res) => {
   const {headers, method, url} = req
 
